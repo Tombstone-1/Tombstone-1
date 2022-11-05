@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tombstone-1
 - 👀 I’m interested in Web development using django and python.
 - 🌱 I’m currently learning python and some Front-End language.
+- 💞️ Newbie in Git and GitHub
 - 📫 reach me here.
 
 <!---
