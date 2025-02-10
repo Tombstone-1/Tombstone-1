@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tombstone-1
-- 👀 I’m interested in Web development using django and python.
-- 🌱 I’m currently learning python and some Front-End language.
+- 👋 Hi, I’m Ashif @Tombstone-1
+- 👀 I’m interested in Web development, IOT and Embedded.
+- 🌱 I’m currently learning python, some Front-End language as well as about Embedded and IOT stuff.
 - 💞️ Newbie in Git and GitHub
 - 📫 reach me here.
 
